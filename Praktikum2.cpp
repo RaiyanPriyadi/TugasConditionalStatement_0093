@@ -47,7 +47,7 @@ int main() {
     cout << endl;
     cout << "=== Hasil ===" << endl;
     cout << "BMI Anda: " << bmi << endl;
-    cout << "Kondisi: " << kondisi << endl;
+    cout << "Kond: " << kondisi << endl;
 
     return 0;
 }
