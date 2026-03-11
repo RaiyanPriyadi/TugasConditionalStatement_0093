@@ -42,7 +42,7 @@ int main() {
     bmi = hitungBMI(berat, tinggi);
 
     
-    kondisi = konBerat(bmi);
+    kondisi = kondisiBerat(bmi);
 
     cout << endl;
     cout << "=== Hasil ===" << endl;
